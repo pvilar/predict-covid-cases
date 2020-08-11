@@ -1,7 +1,5 @@
 # Logistic Growth Model for estimating Corona Virus spread
 
-:construction: Model continuously being improved :construction:
-
 The purpose of this model is to estimate the duration and the total number of cases of the [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/) spread by country.
 
 ## Data source
@@ -40,12 +38,5 @@ lc.plot(y)
 ```
 ## Output example
 <p align="center">
-    <img src="italy prediction.png" width=850>
+    <img src="italy prediction.png" width=8700>
 </p>
-
-## Contact us
-For further information or questions reach out to:
-
-* Sebastian Vermaas (sebastian.vermaas@nike.com)
-* Rob Hovens (Rob.Hovens@nike.com)
-* Pau Vilar (pau.vilar@nike.com)
